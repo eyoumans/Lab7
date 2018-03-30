@@ -1,2 +1,2 @@
-# Lab7
-Lab 7 re-upload
+# JSPlatformer
+JS Platformer for DIG 3480C
